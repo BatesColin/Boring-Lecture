@@ -1,0 +1,9 @@
+h2.intro {
+color: blue;
+}
+p.intro {
+font-size: 75%;
+}
+img.intro {
+font-kerning: auto;
+}
