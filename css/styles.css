@@ -1,9 +1,9 @@
-h2.intro {
+.intro h2 {
 color: blue;
 }
-p.intro {
+.intro p {
 font-size: 75%;
 }
-img.intro {
+.intro img {
 font-kerning: auto;
 }
